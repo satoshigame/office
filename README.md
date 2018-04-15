@@ -1,3 +1,2 @@
 # satoshi.game
-satoshi.game office github
-welcome to satoshi.game
+welcome to https://satoshi.game
