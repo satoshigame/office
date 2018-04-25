@@ -1,2 +1,2 @@
-# BlockChain Games
+# Tokens
 Welcome to https://satoshi.game!
